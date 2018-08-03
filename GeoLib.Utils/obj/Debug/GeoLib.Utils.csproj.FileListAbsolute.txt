@@ -1,0 +1,8 @@
+E:\GeoLibManagement\GeoLib.Utils\bin\Debug\GeoLib.Utils.dll
+E:\GeoLibManagement\GeoLib.Utils\bin\Debug\GeoLib.Utils.pdb
+E:\GeoLibManagement\GeoLib.Utils\obj\Debug\GeoLib.Utils.dll
+E:\GeoLibManagement\GeoLib.Utils\obj\Debug\GeoLib.Utils.pdb
+E:\GeoLibManagement\GeoLib.Utils\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\GeoLibManagement\GeoLib.Utils\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\GeoLibManagement\GeoLib.Utils\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\GeoLibManagement\GeoLib.Utils\obj\Debug\GeoLib.Utils.csprojResolveAssemblyReference.cache

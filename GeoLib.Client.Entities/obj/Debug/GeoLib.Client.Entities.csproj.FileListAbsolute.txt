@@ -1,0 +1,9 @@
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Client.Entities.dll
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Client.Entities.pdb
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Common.Interfaces.dll
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Utils.dll
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Common.Interfaces.pdb
+E:\GeoLibManagement\GeoLib.Client.Entities\bin\Debug\GeoLib.Utils.pdb
+E:\GeoLibManagement\GeoLib.Client.Entities\obj\Debug\GeoLib.Client.Entities.csprojResolveAssemblyReference.cache
+E:\GeoLibManagement\GeoLib.Client.Entities\obj\Debug\GeoLib.Client.Entities.dll
+E:\GeoLibManagement\GeoLib.Client.Entities\obj\Debug\GeoLib.Client.Entities.pdb

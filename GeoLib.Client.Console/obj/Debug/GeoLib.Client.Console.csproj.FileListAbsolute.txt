@@ -1,0 +1,16 @@
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Console.exe.config
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Console.exe
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Console.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Contract.dll
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Entities.dll
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Proxies.dll
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Utils.dll
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Common.Interfaces.dll
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Contract.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Entities.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Client.Proxies.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Utils.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\bin\Debug\GeoLib.Common.Interfaces.pdb
+E:\GeoLibManagement\GeoLib.Client.Console\obj\Debug\GeoLib.Client.Console.csprojResolveAssemblyReference.cache
+E:\GeoLibManagement\GeoLib.Client.Console\obj\Debug\GeoLib.Client.Console.exe
+E:\GeoLibManagement\GeoLib.Client.Console\obj\Debug\GeoLib.Client.Console.pdb

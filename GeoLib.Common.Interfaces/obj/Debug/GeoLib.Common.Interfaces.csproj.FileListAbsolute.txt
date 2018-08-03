@@ -1,0 +1,6 @@
+E:\GeoLibManagement\GeoLib.Common.Interfaces\obj\Debug\GeoLib.Common.Interfaces.csprojResolveAssemblyReference.cache
+E:\GeoLibManagement\GeoLib.Common.Interfaces\bin\Debug\GeoLib.Common.Interfaces.dll
+E:\GeoLibManagement\GeoLib.Common.Interfaces\bin\Debug\GeoLib.Common.Interfaces.pdb
+E:\GeoLibManagement\GeoLib.Common.Interfaces\obj\Debug\GeoLib.Common.Interfaces.dll
+E:\GeoLibManagement\GeoLib.Common.Interfaces\obj\Debug\GeoLib.Common.Interfaces.pdb
+E:\GeoLibManagement\GeoLib.Common.Interfaces\bin\Debug\GeoLib.Common.Interfaces.dll.config

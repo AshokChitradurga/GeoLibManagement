@@ -1,0 +1,15 @@
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\GeoLib.Core.dll.config
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\GeoLib.Core.dll
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\GeoLib.Core.pdb
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\EntityFramework.dll
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\GeoLib.Common.Interfaces.dll
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\GeoLib.Common.Interfaces.pdb
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\EntityFramework.xml
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\GeoLibManagement\GeoLib.Core\obj\Debug\GeoLib.Core.csprojResolveAssemblyReference.cache
+E:\GeoLibManagement\GeoLib.Core\obj\Debug\GeoLib.Core.dll
+E:\GeoLibManagement\GeoLib.Core\obj\Debug\GeoLib.Core.pdb
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\GeoLibManagement\GeoLib.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
